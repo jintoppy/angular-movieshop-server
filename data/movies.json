@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "description": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "imgUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ratatouille",
+        "description": "Remy, a rat, aspires to become a renowned French chef. He doesn't realise that people despise rodents and will never enjoy a meal cooked by him.",
+        "genre": ["Fantasy", "Drama"],
+        "imgUrl": "http://www.gstatic.com/tv/thumb/dvdboxart/165058/p165058_d_v8_aa.jpg"
+    },
+    {
+        "id": 3,
+        "name": "The Island",
+        "description": "Lincoln Six Echo is just like everyone else as he waits to go to the island. But he soon discovers that everything about his existence is a lie and that he and the other inhabitants are human clones.",
+        "genre": ["Drama", "Science Fiction", "Action"],
+        "imgUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+    }
+]
